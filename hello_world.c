@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello, Korean!\n");
+  printf("Hello, KKKorean!\n");
 
   return 0;
 }
